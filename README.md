@@ -1,0 +1,2 @@
+# WecodeAcademy
+For training purpose
